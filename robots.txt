@@ -1,0 +1,6 @@
+# nguyenvanlamm.github.io: all crawlers welcome, including search and AI bots.
+User-agent: *
+Allow: /
+Content-Signal: search=yes, ai-input=yes, ai-train=yes
+
+Sitemap: https://nguyenvanlamm.github.io/tile-bloom-site/sitemap.xml
