@@ -5,3 +5,4 @@ Content-Signal: search=yes, ai-input=yes, ai-train=yes
 
 Sitemap: https://nguyenvanlamm.github.io/tile-bloom-site/sitemap.xml
 Sitemap: https://nguyenvanlamm.github.io/coin-cubby-site/sitemap.xml
+Sitemap: https://nguyenvanlamm.github.io/nightwall-site/sitemap.xml
