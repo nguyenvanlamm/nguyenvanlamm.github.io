@@ -9,3 +9,4 @@ Sitemap: https://nguyenvanlamm.github.io/nightwall-site/sitemap.xml
 Sitemap: https://nguyenvanlamm.github.io/lowtide-locks-site/sitemap.xml
 Sitemap: https://nguyenvanlamm.github.io/haboob-run-site/sitemap.xml
 Sitemap: https://nguyenvanlamm.github.io/tiptoe-tabby-site/sitemap.xml
+Sitemap: https://nguyenvanlamm.github.io/brinestack-site/sitemap.xml
