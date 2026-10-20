@@ -7,3 +7,4 @@
 - [Nightwall](https://nguyenvanlamm.github.io/nightwall-site/llms.txt): a one-tap stealth ninja climbing game for iPhone, coming soon
 - [Lowtide Locks](https://nguyenvanlamm.github.io/lowtide-locks-site/llms.txt): a calm isometric mirror puzzle for iPhone, coming soon
 - [Haboob Run](https://nguyenvanlamm.github.io/haboob-run-site/llms.txt): a top-down arcade road game for iPhone where you refuel by drafting, coming soon
+- [Tiptoe Tabby](https://nguyenvanlamm.github.io/tiptoe-tabby-site/llms.txt): a calm cat balance puzzle for iPhone, walking on knitting needles over a wet floor, coming soon
