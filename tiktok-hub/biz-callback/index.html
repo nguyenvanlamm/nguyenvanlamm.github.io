@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="vi">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <!-- The authorization code is in this page's URL: never send it anywhere as a Referer, never index it. -->
+  <meta name="referrer" content="no-referrer">
+  <meta name="robots" content="noindex, nofollow">
+  <title>TikTok Hub — quay về ứng dụng</title>
+  <link rel="stylesheet" href="../style.css">
+</head>
+<body>
+  <main class="wrap">
+    <h1>Đang quay về TikTok Hub…</h1>
+    <p class="lead">TikTok API for Business chỉ chuyển hướng về địa chỉ https, nên trang này chuyển mã cấp quyền về TikTok Hub đang chạy trên máy của bạn. Trang không lưu và không gửi mã đi đâu khác.</p>
+    <p class="lang">English: returning to TikTok Hub on this computer. This page only forwards the authorization code to the locally running app; it stores nothing.</p>
+    <hr class="rule">
+    <p><a id="next" href="#">Bấm vào đây nếu trình duyệt không tự chuyển</a></p>
+    <p class="muted" id="hint">Không mở được? Kiểm tra TikTok Hub đang chạy (<code>./start.sh</code>) và bạn đang dùng trình duyệt trên chính máy đó — hoặc đã mở SSH tunnel tới máy chủ.</p>
+    <noscript><p>Trang cần JavaScript để chuyển tiếp. Hãy bật JavaScript rồi tải lại.</p></noscript>
+  </main>
+  <script>
+    // Where TikTok Hub listens. Change the port here if you changed APP_PORT in .env.
+    var HUB = "http://localhost:8000/auth/business/callback";
+    // Forward only the OAuth parameters (auth_code, state, error); everything else is dropped.
+    var ALLOWED = ["auth_code", "code", "state", "error", "error_description"];
+    var source = new URLSearchParams(window.location.search);
+    var forward = new URLSearchParams();
+    ALLOWED.forEach(function (key) {
+      var value = source.get(key);
+      if (value !== null) forward.set(key, value);
+    });
+    var target = HUB + "?" + forward.toString();
+    document.getElementById("next").href = target;
+    if (forward.has("state")) {
+      // replace(): the code-bearing URL does not stay in the back-button history.
+      window.location.replace(target);
+    } else {
+      document.querySelector("h1").textContent = "Thiếu thông tin cấp quyền";
+      document.getElementById("next").removeAttribute("href");
+      document.getElementById("next").textContent = "Liên kết này không đến từ TikTok. Hãy bắt đầu lại từ TikTok Hub → Tài khoản → Nối Business API.";
+    }
+  </script>
+</body>
+</html>
