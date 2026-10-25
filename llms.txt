@@ -12,3 +12,4 @@
 - [Hadal Relay](https://nguyenvanlamm.github.io/hadal-relay-site/llms.txt): a side-scrolling deep-sea shooter for iPhone and iPad where every failed dive comes back as a relay that fights beside you, coming soon
 - [Snowpack Hop](https://nguyenvanlamm.github.io/snowpack-hop-site/llms.txt): a one-tap fox platformer for iPhone where every critter you stomp becomes a snow block you climb, coming soon
 - [Nibblume](https://nguyenvanlamm.github.io/nibblume-site/llms.txt): a lanternfish game for iPhone where your glow lures prey and shows you to red-eyed hunters, coming soon
+- [Chiselturn](https://nguyenvanlamm.github.io/chiselturn-site/llms.txt): a calm turntable puzzle for iPhone where you turn a block of coloured stone and carve it one chisel at a time, coming soon
