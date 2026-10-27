@@ -13,3 +13,4 @@
 - [Snowpack Hop](https://nguyenvanlamm.github.io/snowpack-hop-site/llms.txt): a one-tap fox platformer for iPhone where every critter you stomp becomes a snow block you climb, coming soon
 - [Nibblume](https://nguyenvanlamm.github.io/nibblume-site/llms.txt): a lanternfish game for iPhone where your glow lures prey and shows you to red-eyed hunters, coming soon
 - [Chiselturn](https://nguyenvanlamm.github.io/chiselturn-site/llms.txt): a calm turntable puzzle for iPhone where you turn a block of coloured stone and carve it one chisel at a time, coming soon
+- [Ochrecut](https://nguyenvanlamm.github.io/ochrecut-site/llms.txt): a calm iPhone puzzle where you dig clay so mineral pigment pours like sand into matching glazed pots, coming soon
