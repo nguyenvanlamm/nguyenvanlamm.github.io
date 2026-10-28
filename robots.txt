@@ -16,3 +16,4 @@ Sitemap: https://nguyenvanlamm.github.io/nibblume-site/sitemap.xml
 Sitemap: https://nguyenvanlamm.github.io/chiselturn-site/sitemap.xml
 Sitemap: https://nguyenvanlamm.github.io/ochrecut-site/sitemap.xml
 Sitemap: https://nguyenvanlamm.github.io/beamfork-site/sitemap.xml
+Sitemap: https://nguyenvanlamm.github.io/slipchute-site/sitemap.xml
