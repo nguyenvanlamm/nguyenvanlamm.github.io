@@ -16,3 +16,4 @@
 - [Ochrecut](https://nguyenvanlamm.github.io/ochrecut-site/llms.txt): a calm iPhone puzzle where you dig clay so mineral pigment pours like sand into matching glazed pots, coming soon
 - [Beamfork](https://nguyenvanlamm.github.io/beamfork-site/llms.txt): a calm light-and-mirror puzzle for iPhone, coming soon
 - [Slipchute](https://nguyenvanlamm.github.io/slipchute-site/llms.txt): a calm sorting puzzle for iPhone where one swipe tilts the tray and every parcel slides toward its own chute, coming soon
+- [Skepfield](https://nguyenvanlamm.github.io/skepfield-site/llms.txt): a calm logic puzzle for iPhone where you place one straw beehive in every plot of a patchwork farm and numbered stones count the hives around them, coming soon
