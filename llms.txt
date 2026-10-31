@@ -19,3 +19,4 @@
 - [Skepfield](https://nguyenvanlamm.github.io/skepfield-site/llms.txt): a calm logic puzzle for iPhone where you place one straw beehive in every plot of a patchwork farm and numbered stones count the hives around them, coming soon
 - [Topsy Larder](https://nguyenvanlamm.github.io/topsy-larder-site/llms.txt): a calm jar-sorting puzzle for iPhone where you pour fruit preserves between jam jars and turn jars upside down in brass cradles, coming soon
 - [Plasmatide](https://nguyenvanlamm.github.io/plasmatide-site/llms.txt): an iPhone game inside a blood vessel where you swipe drifting plasma drops and spend them on immune cells to stop germs before they reach the heart, coming soon
+- [Folioscape](https://nguyenvanlamm.github.io/folioscape-site/llms.txt): a calm bookshelf picture puzzle for iPhone where you pull books from packed shelves so their spines complete a hidden picture, coming soon
