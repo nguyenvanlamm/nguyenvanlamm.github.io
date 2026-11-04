@@ -23,3 +23,4 @@
 - [Keyturn Keep](https://nguyenvanlamm.github.io/keyturn-keep-site/llms.txt): a reverse-siege game for iPhone where you slide brass keys along a quilt's seams and wind-up tin toys turn around to fight for your pillow fort, coming soon
 - [Jutwood](https://nguyenvanlamm.github.io/jutwood-site/llms.txt): a balance game for iPhone where beavers stack sawn planks out over a river and nothing gets cut off, so the reach depends on keeping the weight over what lies below, coming soon
 - [Inchwright](https://nguyenvanlamm.github.io/inchwright-site/llms.txt): a physics puzzle for iPhone where you build an inchworm a tiny cart from twigs, acorns and seed pods and rebuild it at every stopover for the leg ahead, coming soon
+- [Kite Weather](https://nguyenvanlamm.github.io/kite-weather-site/llms.txt): a kite puzzle for iPhone where you draw strings through kites of one colour and the wind turns to follow your string's last step, so the whole field drifts with it, coming soon
