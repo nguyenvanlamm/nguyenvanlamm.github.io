@@ -28,3 +28,4 @@ Sitemap: https://nguyenvanlamm.github.io/kite-weather-site/sitemap.xml
 Sitemap: https://nguyenvanlamm.github.io/tintwig-site/sitemap.xml
 Sitemap: https://nguyenvanlamm.github.io/washi-turn-site/sitemap.xml
 Sitemap: https://nguyenvanlamm.github.io/nounsmith-site/sitemap.xml
+Sitemap: https://nguyenvanlamm.github.io/popcorn-pigeons-site/sitemap.xml
