@@ -31,3 +31,4 @@ Sitemap: https://nguyenvanlamm.github.io/nounsmith-site/sitemap.xml
 Sitemap: https://nguyenvanlamm.github.io/popcorn-pigeons-site/sitemap.xml
 Sitemap: https://nguyenvanlamm.github.io/tumbletub-site/sitemap.xml
 Sitemap: https://nguyenvanlamm.github.io/tunes-on-a-string-site/sitemap.xml
+Sitemap: https://nguyenvanlamm.github.io/propworm-site/sitemap.xml
