@@ -34,3 +34,4 @@ Sitemap: https://nguyenvanlamm.github.io/tunes-on-a-string-site/sitemap.xml
 Sitemap: https://nguyenvanlamm.github.io/propworm-site/sitemap.xml
 Sitemap: https://nguyenvanlamm.github.io/rindfall-site/sitemap.xml
 Sitemap: https://nguyenvanlamm.github.io/clamber-garden-site/sitemap.xml
+Sitemap: https://nguyenvanlamm.github.io/thawscope-site/sitemap.xml
