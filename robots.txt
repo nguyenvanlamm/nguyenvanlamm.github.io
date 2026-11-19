@@ -38,3 +38,4 @@ Sitemap: https://nguyenvanlamm.github.io/thawscope-site/sitemap.xml
 Sitemap: https://nguyenvanlamm.github.io/tapioca-junction-site/sitemap.xml
 Sitemap: https://nguyenvanlamm.github.io/clackmere-site/sitemap.xml
 Sitemap: https://nguyenvanlamm.github.io/geode-roll-site/sitemap.xml
+Sitemap: https://nguyenvanlamm.github.io/twinwick-site/sitemap.xml
